@@ -37,3 +37,5 @@ How to override templates and write preprocess functions, including how to figur
 How to create a base theme, including understanding the differences in the included core themes: Stable, Class, Stark, and Bartik.
 
 How to create URL routes in a routing.yml file that point to controller and form classes.
+
+I also got several questions about View Modes and Form Modes.
