@@ -23,3 +23,17 @@ e. menu system
 f. CMI
 g. multilingual
 h. REST and web services.
+
+
+
+To study:
+
+How to use the Entity API to hook into the lifecycle of creating, updating and deleting entities.
+
+How to use the configuration API to read and write configuration values, including how to handle default configuration.
+
+How to override templates and write preprocess functions, including how to figure out the possible names for templates based on the specificity you want, and which template names take priority when overriding. You should also know how to change the possible name suggestions for a template.
+
+How to create a base theme, including understanding the differences in the included core themes: Stable, Class, Stark, and Bartik.
+
+How to create URL routes in a routing.yml file that point to controller and form classes.
